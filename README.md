@@ -106,7 +106,13 @@
 | **Zinho Pão de Alho** | `.NET`, `C#`, `GSAP`, `Lenis`, `Swiper.js`, `Figma` — Fluid motion-driven corporate platform | [zinho.com](https://zinho.com) |
 | **GENEX** | `.NET`, `C#`, `Swiper.js`, `Figma` — Corporate portal unifying 3 core business pillars | [genexbrasil.com.br](https://genexbrasil.com.br) |
 | **Additional Production Portals** | Full-Stack & Front-End corporate deliveries | [descubraalexaplus](https://descubraalexaplus.com.br) · [drthiagoalcantara](https://book.drthiagoalcantara.com.br) · [gthomelacitta](https://gthomelacitta.com.br) · [wtcrp](https://wtcrp.com) |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/jojiwesley/jojiwesley/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="95%" />
+</div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" />
+</div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,50:1e3a8a,100:0f172a&height=110&section=footer" width="100%" />
 </div>
