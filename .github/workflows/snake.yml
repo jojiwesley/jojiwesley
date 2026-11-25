@@ -20,7 +20,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          cd dist
+          mkdir -p /tmp/snake-out
+          cp dist/*.svg /tmp/snake-out/
+          cd /tmp/snake-out
           git init
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
